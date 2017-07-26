@@ -1,3 +1,11 @@
+# Eclipse Workspace Files
+.metadata/
+RemoteSystemsTempFiles/
+build/
+.settings/
+.classpath
+.project
+Servers/
 # Compiled class file
 *.class
 
